@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import TheLogin from './components/TheLogin.vue'
 import TheLogout from './components/TheLogout.vue'
-import Profile from './components/Profile.vue'
+import TheProfile from './components/TheProfile.vue'
 </script>
 
 <template>
@@ -18,7 +18,7 @@ import Profile from './components/Profile.vue'
   <main>
     <TheLogin />
     <TheLogout />
-    <Profile />
+    <TheProfile />
     <TheWelcome />
   </main>
 </template>
